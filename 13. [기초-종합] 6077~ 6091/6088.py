@@ -25,5 +25,4 @@ current = a
 for i in range(n - 1):
     current = current + d
 
-
 print(current)
